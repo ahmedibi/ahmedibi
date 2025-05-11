@@ -24,11 +24,12 @@
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently:
 
-- 🚀 Building full-stack apps with Node.js and Express  
-- 🎨 Polishing UI/UX with modern React techniques  
-- 🤖 Tinkering with AI tools, APIs & automation
+- ⚛️ Crafting dynamic React web apps 
+- 🌐 Diving deeper into backend logic, databases, and API integrations  
+- 🧠 Experimenting with AI tools, automations, and creative tech projects
+- 🔄 On the path to mastering full stack development — one build at a time
 
 ---
 
