@@ -63,8 +63,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ahmedibi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" height="230"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedibi&layout=pie&theme=tokyonight&border_radius=15&langs_count=6" height="230"/>
-    </td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedibi&layout=pie&theme=tokyonight&border_radius=15&langs_count=6" height="270"/>
+</td>
   </tr>
 </table>
 
