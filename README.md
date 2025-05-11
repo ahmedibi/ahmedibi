@@ -57,9 +57,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedibi&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest&margin-w=15&margin-h=15" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedibi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15" height="230"/>
