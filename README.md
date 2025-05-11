@@ -5,7 +5,7 @@
 <h3 align="center">Front-End Engineer | Tech Addict | Hardcore Gamer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Front-End+Dev+%7C+React+Enthusiast;Gamer+debugging+IRL+bosses;Made+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Front-End+Dev+%7C+React+Enthusiast;Gamer+debugging+IRL+bosses;" alt="Typing SVG" />
 </p>
 
 ---
