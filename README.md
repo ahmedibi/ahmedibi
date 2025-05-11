@@ -57,27 +57,28 @@
 
 ### 📈 GitHub Stats
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedibi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15" height="230"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedibi&layout=pie&theme=radical&border_radius=15" height="280"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmedibi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" height="230"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedibi&layout=pie&theme=tokyonight&border_radius=15&langs_count=6" height="230"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedibi&theme=tokyo-night&area=true&hide_border=true&animate=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedibi&theme=radical&border_radius=15&sideNums=F75C7E&sideLabels=36BCF7" height="230"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedibi&theme=tokyonight&border_radius=15&sideNums=70A5FD&sideLabels=F75C7E" height="230"/>
 </p>
 
----
 
 <!-- 🎮 Outro GIF -->
 <p align="center">
   <img src="https://media.tenor.com/lh_PmOpC6EoAAAAC/retro-cyberpunk.gif" alt="cyberpunk outro" width="100%" />
 </p>
+
