@@ -33,7 +33,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect with Me:
 
 <p align="center">
   <a href="mailto:ahmedibrahim2k25@gmail.com" target="_blank">
