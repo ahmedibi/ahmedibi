@@ -1,7 +1,7 @@
 <!-- ✨ Welcome Banner -->
 
 
-<h1 align="center">Hello 👋, I'm Ahmed Ibrahim</h1>
+<h1 align="center">Hello 👋, I'm Ahmed Ibrahim </h1>
 <h3 align="center">Front-End Engineer | Tech Addict | Hardcore Gamer</h3>
 
 <p align="center">
